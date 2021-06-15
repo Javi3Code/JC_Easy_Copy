@@ -1,0 +1,36 @@
+{
+	"easyevents": [
+		{
+			"command": "w",
+			"commandgroup": "a",
+			"source": [
+				"C:/Users/JAVIER/.m2/repository/JavaStreetUtilities/JavPeAl.JSUtils/0.0.1-SNAPSHOT/JavPeAl.JSUtils-0.0.1-SNAPSHOT.jar"
+			],
+			"target": [
+				"C:/Users/JAVIER/Desktop"
+			]
+		},
+		{
+			"command": "a",
+			"commandgroup": "a",
+			"source": [
+				"C:/Users/JAVIER/Desktop/FRONT_SAMPLES/first_sample.js"
+			],
+			"target": [
+				"C:/Users/JAVIER/Desktop",
+				"C:/Users/JAVIER/Desktop/Databases"
+			]
+		}
+		,
+        {
+            "command": "b",
+            "commandgroup": "a",
+            "source": [
+                "C:/Users/JAVIER/Desktop/Databases"
+            ],
+            "target": [
+                "C:/Users/JAVIER/Desktop/FRONT_SAMPLES/first_sample.js"
+            ]
+        }
+	]
+}
